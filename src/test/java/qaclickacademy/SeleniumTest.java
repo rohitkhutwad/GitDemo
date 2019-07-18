@@ -7,6 +7,8 @@ public class SeleniumTest {
 	@Test
 	public void Seleniumone(){
 		System.out.println("Seleniumone");
+		System.out.println("Seleniumtwo");
+		System.out.println("Seleniumthree");
 	}
 	
 	@Test
