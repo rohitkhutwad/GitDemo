@@ -11,6 +11,8 @@ public class SeleniumTest {
 		System.out.println("Seleniumthree");
 		System.out.println("Seleniumfour");
 		System.out.println("Seleniumfive");
+		System.out.println("SelDemo1");
+		System.out.println("SelDemo2");
 	}
 	
 	@Test
