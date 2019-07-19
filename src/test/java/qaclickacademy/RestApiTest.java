@@ -9,6 +9,8 @@ public class RestApiTest {
 		System.out.println("RestApione");
 		System.out.println("RestApitwo");
 		System.out.println("RestApithree");
+		System.out.println("RestApifour");
+		System.out.println("RestApifive");
 	}
 	
 	@Test

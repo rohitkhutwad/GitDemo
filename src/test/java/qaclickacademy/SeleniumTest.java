@@ -9,6 +9,8 @@ public class SeleniumTest {
 		System.out.println("Seleniumone");
 		System.out.println("Seleniumtwo");
 		System.out.println("Seleniumthree");
+		System.out.println("Seleniumfour");
+		System.out.println("Seleniumfive");
 	}
 	
 	@Test
