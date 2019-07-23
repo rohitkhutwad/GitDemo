@@ -28,5 +28,9 @@ public class SeleniumTest {
 		System.out.println("Seleniumthree");
 	}
 
+	@Test
+	public void Seleniumfour(){
+		System.out.println("Seleniumfour with American guy");
+	}
 
 }

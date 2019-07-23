@@ -31,4 +31,9 @@ public class RestApiTest {
 	public void RestApithree(){
 		System.out.println("RestApithree");
 	}
+	
+	@Test
+	public void RestApifour(){
+		System.out.println("RestApifour with American guy");
+	}
 }

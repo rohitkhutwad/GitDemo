@@ -20,4 +20,9 @@ public class MobileApiTest {
 		System.out.println("MobileApithree");
 	}
 
+	@Test
+	public void MobileApifour(){
+		System.out.println("MobileApifour with American guy");
+	}
+	
 }
