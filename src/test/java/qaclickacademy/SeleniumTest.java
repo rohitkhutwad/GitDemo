@@ -15,6 +15,7 @@ public class SeleniumTest {
 		System.out.println("SelDemo2");
 		System.out.println("Demo5");
 		System.out.println("Demo6");
+		System.out.println("Demo7 with gitx");
 	}
 	
 	@Test
