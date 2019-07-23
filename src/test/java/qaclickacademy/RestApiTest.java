@@ -25,5 +25,10 @@ public class RestApiTest {
 	public void RestApitwo(){
 		System.out.println("RestApitwo");
 	}
+
 	
+	@Test
+	public void RestApithree(){
+		System.out.println("RestApithree");
+	}
 }

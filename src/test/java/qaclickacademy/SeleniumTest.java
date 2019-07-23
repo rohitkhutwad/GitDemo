@@ -23,4 +23,10 @@ public class SeleniumTest {
 		System.out.println("Seleniumtwo");
 	}
 	
+	@Test
+	public void Seleniumthree(){
+		System.out.println("Seleniumthree");
+	}
+
+
 }

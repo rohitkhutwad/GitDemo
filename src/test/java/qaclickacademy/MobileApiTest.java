@@ -14,4 +14,10 @@ public class MobileApiTest {
 		System.out.println("MobileApitwo");
 	}
 
+	
+	@Test
+	public void MobileApithree(){
+		System.out.println("MobileApithree");
+	}
+
 }
